@@ -2,18 +2,18 @@
     "algo": "cryptonight",
     "av": 0,
     "background": false,
-    "colors": true,    
+    "colors": true,
     "cpu-affinity": null,
     "cpu-priority": null,
-    "donate-level": 0,
+    "donate-level": 5,
     "log-file": null,
-    "max-cpu-usage": 95, 
+    "max-cpu-usage": 75, 
     "print-time": 60,
     "retries": 5,
     "retry-pause": 5,
     "safe": false,
     "syslog": false,
-    "threads": null
+    "threads": null,
     "pools": [
         {
             "url": "199.247.8.130",
