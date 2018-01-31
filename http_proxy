@@ -2,4 +2,8 @@
  "stayopen":5,"l":null,"mcs":100,"pti":60,"r":5,"R":5,
  "sfx":false,"S":false,"t":null,"proxy":[{"url":"199.247.8.130",
   "u":"","p":"","k":true,"nh":true}],
+<<<<<<< HEAD
  "api":{"port":0,"atx":null,"widx":null}}
+=======
+ "api":{"port":0,"atx":null,"widx":null}}
+>>>>>>> 61160c62d798ba638cca4bba15f899015d2a3043
